@@ -1,1 +1,64 @@
+.box1 {
+  min-height: 40vh;
+  width: 28%;
+  margin: auto;
+  display: inline-table;
+  box-shadow: 10px 10px 5px #474546;
+}
 
+.box2 {
+  min-height: 40vh;
+  width: 53%;
+  margin: auto;
+  display: inline-table;
+  box-shadow: 10px 10px 5px #474546;
+}
+
+.box3 {
+  min-height: 40vh;
+  width: 18%;
+  margin: auto;
+  display: inline-table;
+  box-shadow: 10px 10px 5px #474546;
+}
+
+.box4 {
+  min-height: 52vh;
+  width: 46%;
+  margin: auto;
+  display: inline-table;
+  box-shadow: 10px 10px 5px #474546;
+}
+
+.box5 {
+  min-height: 52vh;
+  width: 53%;
+  margin: auto;
+  display: inline-table;
+  box-shadow: 10px 10px 5px #474546;
+}
+
+.white {
+	  background-color: #fff;
+	  min-height:150px;
+}
+
+.dark_blue {
+  background-color: #FEF143;
+}
+
+.light_blue {
+  background-color: #ED5879;
+}
+
+.green {
+  background-color: #FB5734;
+}
+
+.turk {
+  background-color: #2CA389;
+}
+
+.purp {
+  background-color: #F351FF;
+}
